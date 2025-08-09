@@ -30,5 +30,5 @@ javac TextEncoderDecoder.java
 
 2. **Run the Program:**
 ```bash
-   java TextEncoderDecoder
+java TextEncoderDecoder
 ```
